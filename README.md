@@ -5,3 +5,4 @@ getgenv().sneeky_wallcheck = true; -- Switch this to true if you don't want the 
 loadstring(game:HttpGet("https://sneekysscripts.uk/Scripts/DesertStorm/main.luau"))();
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wesleytabor55-create/Fly/refs/heads/main/README.md"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wesleytabor55-create/If/refs/heads/main/README.md"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wesleytabor55-create/Bright/refs/heads/main/README.md"))()
